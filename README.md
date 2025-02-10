@@ -1,2 +1,2 @@
 # vanshita_varma
-Learning to code, exploring Python, C/C++, and eager to create cool things!!!
+Learning to code, exploring Python, C/C++,DSA and eager to create cool things!!!
